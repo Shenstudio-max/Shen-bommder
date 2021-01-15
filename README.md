@@ -6,7 +6,7 @@ You can get powerful Whatsapp spams using this repository.
 
 `pkg update && pkg upgrade`
 
-`git clone https://github.com/John-kener/Evil-spammer`
+`https://github.com/Shenstudio-max/shen-spammer `
 
 `cd shen bomber `
 
